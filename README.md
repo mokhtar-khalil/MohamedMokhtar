@@ -10,10 +10,13 @@ Here are some of the tools and technologies I work with:
 - R
 - SQL
 - Machine Learning (scikit-learn, TensorFlow)
-- Data Visualization (Matplotlib, Seaborn)
+- Data Visualization (Matplotlib, Seaborn, Plotly)
 - Statistical Analysis
+- Web developpement (Flask, Django, R-shiny, Streamlit)
+- Database (MySql, MongoDB)
+
 
 ## LinkedIn
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohamed El Mokhtar El Khalil) to learn more about my experiences and projects.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-el-mokhtar-el-khalil-009550218/) to learn more about my experiences and projects.
 
